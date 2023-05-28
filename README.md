@@ -1,6 +1,7 @@
 # EX-7 IMPLEMENTATION OF TRACEROUTE COMMAND
 
-## DATE : 20-03-2023
+## DATE : 
+19-04-2023
 ## AIM :
 To write the python program for simulating Traceroute command
 
@@ -22,7 +23,6 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 ## OUTPUT:
-![image](https://github.com/subalakshmivenkat/EX-7/assets/119393477/d59ff0fc-4748-422b-925c-f294ac4a1fee)
 ![image](https://github.com/subalakshmivenkat/EX-7/assets/119393477/03dc0941-d29f-4403-bcca-076f283178d5)
 
 ## RESULT:
